@@ -1,3 +1,6 @@
+# based on code from:
+# https://github.com/roatienza/Deep-Learning-Experiments/blob/master/Experiments/Tensorflow/GAN/dcgan_mnist.py
+
 import tensorflow as tf
 import numpy as np
 import matplotlib.pyplot as plt
