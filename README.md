@@ -1,2 +1,2 @@
 # DeepLearning
-Practice on Deep Learning
+Practice on Deep Learning based on Udemy course.
